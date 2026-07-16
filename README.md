@@ -39,7 +39,7 @@ off_duty: ⚽ Football fanatic
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java" />
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,swift" />
 
 **Frontend & Backend**
 
