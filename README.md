@@ -47,7 +47,7 @@ off_duty: ⚽ Football fanatic
 
 **Database & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,railway,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,vercel" />
 
 **Tools**
 
@@ -75,12 +75,12 @@ An end-to-end platform that transcribes, summarizes, and extracts actionable ins
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=diwakar7sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar7sharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diwakar7sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diwakar7sharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar7sharma&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1" />
+<img src="https://streak-stats.demolab.com/?user=diwakar7sharma&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1" />
 
 </div>
 
